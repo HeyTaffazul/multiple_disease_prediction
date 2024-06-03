@@ -138,7 +138,7 @@ if selected == 'User guide':
     
     st.markdown("""
     <div style="margin-top: 20px; text-align: center;">
-        <a href="https://disease-prediction-system-ulfs2pxj2qc5tetgrhqcs9.streamlit.app//" style="color: white; background-color: #4CAF50; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Click here to Home Page</a>
+        <a href="https://mldpsystem.netlify.app//" style="color: white; background-color: #4CAF50; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Click here to Home Page</a>
     </div>
     """, unsafe_allow_html=True)
 
