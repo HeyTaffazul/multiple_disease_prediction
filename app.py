@@ -3,6 +3,7 @@ import pickle
 from altair import DataType, value
 from pandas import options
 import streamlit as st
+import streamlit_option_menu
 from streamlit_option_menu import option_menu
 
 # Set page configuration
